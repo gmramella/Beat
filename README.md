@@ -11,6 +11,8 @@
 	* criar pastas Musics e Files dentro da pasta bin
 	
 	* trocar ./ por ./bin/
+	
+	* mudar a música na linha const char* path = ... no main.cpp
 
 * Referências:
 	
